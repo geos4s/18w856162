@@ -1,0 +1,8 @@
+if(msg.payload.response.data[0]){
+    var temperature = msg.payload.response.data[0].METAR[0].temp_c[0];
+    var dewpoint = msg.payload.response.data[0].METAR[0].dewpoint_c[0];
+    var windspeed = Math.round(msg.payload.response.data[0].METAR[0].wind_speed_kt[0] * 1.852); // knots to km/h
+    var winddirection = msg.payload.response.data[0].METAR[0].wind_dir_degrees[0];
+
+    return [{ payload: temperature}, { payload: dewpoint}, { payload: windspeed}, { payload: winddirection}];
+}
