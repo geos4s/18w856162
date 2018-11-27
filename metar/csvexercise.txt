@@ -1,0 +1,25 @@
+if(msg.payload.response.data[0]){
+    var rawText = msg.payload.response.data[0].METAR[0].raw_text[0];
+    var stationId = msg.payload.response.data[0].METAR[0].station_id[0];
+    var observationTime = msg.payload.response.data[0].METAR[0].observation_time[0];
+    var latitude = parseFloat(msg.payload.response.data[0].METAR[0].latitude[0]);
+    var longitude = parseFloat(msg.payload.response.data[0].METAR[0].longitude[0]);
+    var elevation = parseFloat(msg.payload.response.data[0].METAR[0].elevation_m[0]);
+    var temp = parseFloat(msg.payload.response.data[0].METAR[0].temp_c[0]);
+    var dewpoint = parseFloat(msg.payload.response.data[0].METAR[0].dewpoint_c[0]);
+    var windDirection = parseFloat(msg.payload.response.data[0].METAR[0].wind_dir_degrees[0]);
+    //var windSpeed = msg.payload.response.data[0].METAR[0].wind_speed_kt[0];
+    var windSpeed_kmh = parseInt(msg.payload.response.data[0].METAR[0].wind_speed_kt[0]) * 1.852;
+    var visibility = parseFloat(msg.payload.response.data[0].METAR[0].visibility_statute_mi[0]);
+    var altim = parseFloat(msg.payload.response.data[0].METAR[0].altim_in_hg[0]);
+    var qualityControlFlag = msg.payload.response.data[0].METAR[0].quality_control_flags[0].no_signal[0];
+    var skyCondition1a = msg.payload.response.data[0].METAR[0].sky_condition[0].$.sky_cover;
+    var skyCondition1b = parseFloat(msg.payload.response.data[0].METAR[0].sky_condition[0].$.cloud_base_ft_agl);
+    var skyCondition2a = msg.payload.response.data[0].METAR[0].sky_condition[1].$.sky_cover;
+    var skyCondition2b = parseFloat(msg.payload.response.data[0].METAR[0].sky_condition[1].$.cloud_base_ft_agl);
+    var flightCategory = msg.payload.response.data[0].METAR[0].flight_category[0];
+    var metarType = msg.payload.response.data[0].METAR[0].metar_type[0];
+ 
+    var metarArray = [stationId, observationTime, latitude, longitude, elevation, temp, dewpoint, windDirection, windSpeed_kmh, visibility, altim, qualityControlFlag, skyCondition1a, skyCondition1b, skyCondition2a, skyCondition2b, flightCategory, metarType];
+    return [{ payload: metarArray}];
+}
