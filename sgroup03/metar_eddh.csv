@@ -1,2 +1,2 @@
-station_id;observation_time;latitude;longitude;temperature;dewpoint;windspeed;winddirection;pressure_hpa;elevation_m © 2018 GitHub;Inc.
-;;;;;;;;;;
+station_id;observation_time;latitude;longitude;temperature;dewpoint;windspeed;winddirection;pressure_hpa;elevation_m
+;;;;;;;;;
