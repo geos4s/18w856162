@@ -1,2 +1,2 @@
 station_id;observation_time;latitude;longitude;temperature;dewpoint;
-LOWI;2018-11-28T06:50:00Z;47.27;11.33;581;1;-2;90;9.26;6.21;30.236221;TRUE;MVFR;METAR
+LOWI;2018-11-28T07:20:00Z;47.27;11.33;581;0;-2;50;7.408;6.21;30.265747;TRUE;MVFR;METAR
