@@ -1,2 +1,2 @@
 station_id;observation_time;latitude;longitude;temperature;dewpoint;windspeed;winddirection;pressure_hpa
-EDDM;2018-11-28T00:20:00Z;48.35;11.82;1;0;0;0;3.11;30.206694;SCT;800;BKN;2000;MVFR;METAR
+EDDM;2018-11-28T00:50:00Z;48.35;11.82;0;0;0;1.852;3.11;30.206694;FEW;800;BKN;2200;MVFR;METAR
