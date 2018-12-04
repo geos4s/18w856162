@@ -1,2 +1,2 @@
 station_id;observation_time;latitude;longitude;elevation;temperature;dewpoint;winddirection;windspeed;visibility in km
-EDDH;2018-12-04T19:50:00Z;53.63;10;16;4;1;250;12.964;9.99189;30.177166;TRUE;VFR;METAR
+EDDH;2018-12-04T20:20:00Z;53.63;10;16;4;1;270;14.816;9.99189;30.206694;TRUE;VFR;METAR
