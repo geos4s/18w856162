@@ -5,4 +5,6 @@ if(msg.payload.response.data[0]){
     var winddirection = msg.payload.response.data[0].METAR[0].wind_dir_degrees[0];
 
     return [{ payload: temperature}, { payload: dewpoint}, { payload: windspeed}, { payload: winddirection}];
+    var metarArray = [temperature, dewpoint, windspeed, winddirection];
+    return [{ payload: metarArray}];
 }
