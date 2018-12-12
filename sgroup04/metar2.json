@@ -1,1 +1,1 @@
-
+{"type":"Feature","geometry":{"type":"Point","coordinates":[47.78,13.02,430]},"properties":{"stationId":"LOWS","rawText":"LOWS 121350Z 17004KT 150V210 6000 -SN FEW006 SCT012 BKN025 M00/M01 Q1021 NOSIG","observationTime":"2018-12-12T13:50:00Z","temp":0,"dewpoint":-1,"windDirection":170,"windSpeed":7.408,"visibility":3.73,"altim":30.147638,"qualityControlFlag":"TRUE","skyCondition1a":"FEW","skyCondition1b":600,"skyCondition2a":"SCT","skyCondition2b":1200,"flightCategory":"MVFR","metarType":"METAR","geometry_esri":{"x":47.78,"y":13.02,"z":430}}}
