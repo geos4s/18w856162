@@ -1,1 +1,1 @@
-
+{"type":"Feature","geometry":{"type":"Point","coordinates":[53.42,-6.25,85]},"properties":{"stationId":"EIDW","rawText":"EIDW 141000Z 15016G26KT 120V180 9999 FEW017 SCT030 BKN070 06/02 Q1016 NOSIG","observationTime":"2018-12-14T10:00:00Z","temp":6,"dewpoint":2,"windDirection":150,"windSpeed":29.632,"visibility":6.21,"altim":30,"qualityControlFlag":"TRUE","skyCondition1a":"FEW","skyCondition1b":1700,"skyCondition2a":"SCT","skyCondition2b":3000,"flightCategory":"VFR","metarType":"METAR","geometry_esri":{"x":53.42,"y":-6.25,"z":85}}}
