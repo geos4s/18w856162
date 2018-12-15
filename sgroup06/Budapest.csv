@@ -1,1 +1,2 @@
-LHBP;2018-12-15T11:30:00Z;47.42;19.27;185;0;-1;20;12.964;1.74;30.088583;BKN;1000;OVC;1500;IFR;METAR
+stationId;observationTime;latitude;longitude;elevation;temp;dewpoint;windDirection;windSpeed;visibility;altim;skyCondition1a;skyCondition1b;skyCondition2a;skyCondition2b;flightCategory;metarType
+LHBP;2018-12-15T12:00:00Z;47.42;19.27;185;0;-1;10;12.964;1.74;30.088583;FEW;600;BKN;1000;IFR;METAR
