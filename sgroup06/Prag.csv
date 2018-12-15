@@ -1,1 +1,2 @@
-LKPR;2018-12-15T11:00:00Z;50.1;14.27;365;-2;-4;340;9.26;3.11;30.236221;FEW;700;BKN;3300;MVFR;SPECI
+stationId;observationTime;latitude;longitude;elevation;temp;dewpoint;windDirection;windSpeed;visibility;altim;skyCondition1a;skyCondition1b;skyCondition2a;skyCondition2b;flightCategory;metarType
+LKPR;2018-12-15T12:00:00Z;50.1;14.27;365;-2;-4;340;12.964;3.73;30.236221;SCT;800;BKN;3300;MVFR;SPECI
