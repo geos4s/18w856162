@@ -1,2 +1,2 @@
 stationId;observationTime;latitude;longitude;elevation;temp;dewpoint;windDirection;windSpeed;visibility;altim;qualityControlFlag;skyCondition1a;skyCondition1b;skyCondition2a;skyCondition2b;flightCategory;metarType
-LHBP;2018-12-17T14:30:00Z;47.42;19.27;185;-4;-4;0;3.704;1.55;30.206694;IFR;METAR
+LHPP;2018-12-17T14:45:00Z;45.98;18.23;305;-3;-4;230;3.704;1.86;30.206694;IFR;METAR
