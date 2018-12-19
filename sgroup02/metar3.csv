@@ -1,2 +1,2 @@
-temperature,dewpoint,windspeed,winddirection
-,,,
+temperature;dewpoint;windspeed;winddirection
+;;;
