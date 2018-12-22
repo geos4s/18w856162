@@ -1,4 +1,2 @@
-station_id;observation_time;latitude;longitude;elevation;temperature;dewpoint;winddirection;windspeed;visibility in km
-EHAM;2018-12-22T16:25:00Z;52.32;4.78;9;10;7;260;22.224;9.99189
-UMKK;2018-12-22T16:00:00Z;54.88;20.6;21;1;0;360;18.52;3.39499
-EKCH;2018-12-22T16:20:00Z;55.62;12.67;5;1;-1;360;5.556;9.99189
+stationId;observationTime;latitude;longitude;elevation;temp;dewpoint;windDirection;windSpeed;visibility;altim;qualityControlFlag;skyCondition1a;skyCondition1b;skyCondition2a;skyCondition2b;flightCategory;metarType
+EIDW;2018-12-22T17:30:00Z;53.42;-6.25;85;8;6;230;12.964;6.21;30;VFR;METAR
