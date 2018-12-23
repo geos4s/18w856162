@@ -1,5 +1,4 @@
 station_id;observation_time;latitude;longitude;elevation;temperature;dewpoint;winddirection;windspeed;visibility in km
-EDDM;2018-12-23T22:50:00Z;48.35;11.82;447;10;9;250;42.596000000000004;9.99189
 UMKK;2018-12-23T23:00:00Z;54.88;20.6;21;0;0;30;11.112;1.70554
 EHAM;2018-12-23T23:25:00Z;52.32;4.78;9;6;5;310;12.964;9.99189
 EKCH;2018-12-23T23:20:00Z;55.62;12.67;5;-1;-4;10;14.816;9.99189
