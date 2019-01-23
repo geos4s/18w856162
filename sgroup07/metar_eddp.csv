@@ -1,2 +1,2 @@
 stationId;observationTime;latitude;longitude;elevation;temp;dewpoint;windDirection;windSpeed;visibility;altim;qualityControlFlag;skyCondition1a;skyCondition1b;skyCondition2a;skyCondition2b;flightCategory;metarType
-EDDP;2019-01-23T00:50:00Z;51.43;12.23;149;-9;-11;110;9.26;6.21;29.616142;VFR;METAR
+EDDP;2019-01-23T01:20:00Z;51.43;12.23;149;-10;-11;110;11.112;6.21;29.616142;VFR;METAR
