@@ -1,2 +1,2 @@
 x;y;z;phenomenonTimeUTC;thingTitle;sensorFOI;sensorType;resultTimeUTC;TempResult;HumidityResult
-13.03940835;47.82342462;434;null;Sensor Station HYDRO3_SOIL;weather;2019-01-25T11:22:00Z;;;
+12.94337948;47.94384149;400;2019-01-25T11:25:05Z;Temperature/Humidity NEQ1381512;weather;2019-01-25T11:25:05Z;19.9;33;
