@@ -1,2 +1,2 @@
 station_id;observation_time;latitude;longitude;elevation;temperature;dewpoint;winddirection;windspeed;visibility in km
-EDDM;2019-01-27T14:50:00Z;48.35;11.82;447;7;1;250;27.78;9.99189
+EDDM;2019-01-27T15:20:00Z;48.35;11.82;447;6;1;250;20.372;9.99189
