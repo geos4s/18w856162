@@ -1,3 +1,2 @@
 x;y;z;phenomenonTimeUTC;thingTitle;sensorFOI;sensorType;resultTimeUTC;windowResult
-13.06250102;47.88010118;571.5;2019-02-01T06:51:26Z;Window 0007D5699E9263;window;1 UM window (back left);2019-02-01T06:51:26Z;2
-13.06242341;47.8800734;571.5;2019-02-01T06:51:27Z;Window 0007D5699E92D3;window;1 UM window (front right);2019-02-01T06:51:27Z;1
+13.06250102;47.88010118;570.5;2019-02-01T07:05:00Z;Window NEQ0356838;window;Thing window NEQ0356838 (back left);2019-02-01T07:05:00Z;0
