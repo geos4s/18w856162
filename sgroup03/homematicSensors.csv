@@ -1,3 +1,2 @@
 x;y;z;phenomenonTimeUTC;thingTitle;sensorFOI;sensorType;resultTimeUTC;TempResult;HumidityResult
-13.06284232;47.88022441;570;2019-02-04T14:25:00Z;Temperature/Humidity NEQ1380928;weather;2019-02-04T14:25:00Z;0;0;
-13.06238066;47.88011697;570;2019-02-04T14:25:00Z;Temperature/Humidity 000E9569A23E09;weather;2019-02-04T14:25:00Z;21.8;35;
+13.038742;47.823269;426;2019-02-04T14:25:00Z;Temperature/Humidity GAA0164731;weather;2019-02-04T14:25:00Z;23.7;34;
