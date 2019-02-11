@@ -1,3 +1,2 @@
 x;y;z;phenomenonTimeUTC;thingTitle;sensorFOI;sensorType;resultTimeUTC;TempResult;HumidityResult
-13.038742;47.823269;426;2019-02-11T16:12:00Z;Temperature/Humidity GAA0164731;weather;2019-02-11T16:12:00Z;22.6;35;
-13.038691;47.823445;427;2019-02-11T16:12:01Z;Weather Station KOMBI_ISPACE;weather;2019-02-11T16:12:01Z;22.8;31;
+13.038691;47.823445;427;2019-02-11T16:14:01Z;Weather Station KOMBI_ISPACE;weather;2019-02-11T16:14:01Z;22.8;31;
