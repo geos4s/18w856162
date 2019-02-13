@@ -1,2 +1,2 @@
 stationId;observationTime;latitude;longitude;elevation;temp;dewpoint;windDirection;windSpeed;visibility;altim;qualityControlFlag;skyCondition1a;skyCondition1b;skyCondition2a;skyCondition2b;flightCategory;metarType
-EDHI;2019-02-13T06:50:00Z;53.53;9.83;13;6;5;260;20.372;2.36;30.413385;IFR;METAR
+EDHI;2019-02-13T07:20:00Z;53.53;9.83;13;6;6;260;20.372;1.62;30.413385;IFR;METAR
