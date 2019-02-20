@@ -1,2 +1,6 @@
-stationId;observationTime;latitude;longitude;elevation;temp;dewpoint;windDirection;windSpeed;visibility;altim;qualityControlFlag;skyCondition1a;skyCondition1b;skyCondition2a;skyCondition2b;flightCategory;metarType
-7;2;300;11.112
+stationId;latitude;longitude;temp;dewpoint;windDirection;windSpeed
+EDDM;48.35;11.82;7;3;0;0
+EKCH;55.62;12.67;6;6;230;11.112
+LOWW;48.12;16.57;7;2;300;11.112
+LOWS;47.78;13.02;5;2;160;9.26
+LSZH;47.48;8.53;7;2;130;1.852
