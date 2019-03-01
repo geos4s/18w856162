@@ -1,2 +1,2 @@
 stationId;observationTime;latitude;longitude;elevation;temp;dewpoint;windDirection;windSpeed;visibility;altim;skyCondition1a;skyCondition1b;skyCondition2a;skyCondition2b;flightCategory;metarType
-LKKV;2018-12-15T12:00:00Z;50.2;12.92;604;-4;-6;50;7.408;5.59;30.206694;SCT;1300;BKN;2300;MVFR;METAR
+LKKV;2019-03-01T00:00:00Z;50.2;12.92;604;7;5;240;11.112;4.97;29.88189;FEW;2400;BKN;4300;MVFR;METAR
