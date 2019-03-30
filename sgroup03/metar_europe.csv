@@ -1,3 +1,2 @@
 station_id;observation_time;latitude;longitude;elevation;temperature;dewpoint;winddirection;windspeed;visibility in km
 UMKK;2019-03-30T05:00:00Z;54.88;20.6;21;6;5;250;25.928;7.9967299999999994
-EDDM;2019-03-30T04:50:00Z;48.35;11.82;447;-2;-2;0;0;6.999149999999999
