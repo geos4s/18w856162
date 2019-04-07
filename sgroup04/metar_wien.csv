@@ -1,4 +1,4 @@
 stationId;latitude;longitude;temp;dewpoint;windDirection;windSpeed
-EKCH;55.62;12.67;8;4;10;5.556
-EDDM;48.35;11.82;7;3;70;11.112
-LSZH;47.48;8.53;8;5;140;5.556
+EDDM;48.35;11.82;8;3;130;9.26
+LOWS;47.78;13.02;9;5;0;3.704
+LOWW;48.12;16.57;10;6;120;25.928
