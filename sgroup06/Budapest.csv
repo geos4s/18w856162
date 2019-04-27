@@ -1,2 +1,2 @@
 stationId;observationTime;latitude;longitude;elevation;temp;dewpoint;windDirection;windSpeed;visibility;altim;skyCondition1a;skyCondition1b;skyCondition2a;skyCondition2b;flightCategory;metarType
-LHBP;2019-03-09T23:30:00Z;47.42;19.27;185;9;7;290;16.668;6.21;29.940945;FEW;2500;BKN;4900;VFR;METAR
+LHBP;2019-04-27T00:00:00Z;47.42;19.27;185;15;15;170;16.668;6.21;29.911417;FEW;4500;BKN;7300;VFR;METAR
