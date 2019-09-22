@@ -1,2 +1,2 @@
 stationId;observationTime;latitude;longitude;elevation;temp;dewpoint;windDirection;windSpeed;visibility;altim;qualityControlFlag;skyCondition1a;skyCondition1b;skyCondition2a;skyCondition2b;flightCategory;metarType
-LFPG;2019-09-22T09:30:00Z;49.02;2.52;109;22;14;180;24.076;6.21;29.734253;VFR;METAR
+EGLL;2019-09-22T11:50:00Z;51.48;-0.45;24;17;16;240;20.372;4.35;29.64567;MVFR;METAR
