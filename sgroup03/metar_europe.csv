@@ -1,4 +1,4 @@
 station_id;observation_time;latitude;longitude;elevation;temperature;dewpoint;winddirection;windspeed;visibility in km
-EKCH;2019-11-11T11:50:00Z;55.62;12.67;5;7;3;180;27.78;9.99189
-UMKK;2019-11-11T11:30:00Z;54.88;20.6;21;8;5;240;18.52;9.99189
 EDDH;2019-11-11T11:50:00Z;53.63;10;16;5;2;140;18.52;9.99189
+EKCH;2019-11-11T11:50:00Z;55.62;12.67;5;7;3;180;27.78;9.99189
+UMKK;2019-11-11T12:00:00Z;54.88;20.6;21;7;5;240;18.52;9.99189
