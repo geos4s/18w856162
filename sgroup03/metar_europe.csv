@@ -1,3 +1,2 @@
 station_id;observation_time;latitude;longitude;elevation;temperature;dewpoint;winddirection;windspeed;visibility in km
-EKCH;2019-12-08T21:50:00Z;55.62;12.67;5;7;4;230;29.632;9.99189
 UMKK;2019-12-08T22:00:00Z;54.88;20.6;21;9;6;220;29.632;9.99189
