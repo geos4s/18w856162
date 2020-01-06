@@ -1,2 +1,2 @@
 stationId;observationTime;latitude;longitude;elevation;temp;dewpoint;windDirection;windSpeed;visibility;altim;qualityControlFlag;skyCondition1a;skyCondition1b;skyCondition2a;skyCondition2b;flightCategory;metarType
-LGIR;2020-01-03T00:20:00Z;35.32;25.17;39;11;7;350;40.744;6.21;30;FEW;1000;FEW;1600;MVFR;METAR
+LGIR;2020-01-06T00:20:00Z;35.32;25.17;39;10;8;0;0;6.21;29.616142;FEW;2000;BKN;3000;MVFR;METAR
