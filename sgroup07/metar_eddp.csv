@@ -1,2 +1,2 @@
 stationId;observationTime;latitude;longitude;elevation;temp;dewpoint;windDirection;windSpeed;visibility;altim;qualityControlFlag;skyCondition1a;skyCondition1b;skyCondition2a;skyCondition2b;flightCategory;metarType
-EDDP;2020-01-07T08:50:00Z;51.43;12.23;149;2;1;230;18.52;2.17;30.265747;IFR;METAR
+EDDP;2020-01-07T09:20:00Z;51.43;12.23;149;2;1;240;20.372;2.8;30.265747;IFR;METAR
