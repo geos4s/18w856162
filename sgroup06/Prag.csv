@@ -1,2 +1,2 @@
 stationId;observationTime;latitude;longitude;elevation;temp;dewpoint;windDirection;windSpeed;visibility;altim;skyCondition1a;skyCondition1b;skyCondition2a;skyCondition2b;flightCategory;metarType
-LKPR;2019-12-26T00:12:00Z;50.1;14.27;365;4;2;280;12.964;6.21;30.147638;FEW;1400;BKN;2000;MVFR;SPECI
+LKPR;2020-01-07T23:35:00Z;50.1;14.27;365;1;0;200;12.964;6.21;30.383858;BKN;1100;BKN;2900;MVFR;SPECI
