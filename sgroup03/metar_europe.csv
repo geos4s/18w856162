@@ -1,3 +1,3 @@
 station_id;observation_time;latitude;longitude;elevation;temperature;dewpoint;winddirection;windspeed;visibility in km
-UMKK;2020-02-22T18:30:00Z;54.88;20.6;21;7;4;230;35.188;9.99189
 EDDM;2020-02-22T18:50:00Z;48.35;11.82;447;11;-1;260;20.372;9.99189
+UMKK;2020-02-22T19:00:00Z;54.88;20.6;21;7;4;240;38.892;9.99189
