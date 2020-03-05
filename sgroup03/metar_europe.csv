@@ -1,4 +1,4 @@
 station_id;observation_time;latitude;longitude;elevation;temperature;dewpoint;winddirection;windspeed;visibility in km
 EHAM;2020-03-05T03:55:00Z;52.32;4.78;9;5;4;100;14.816;9.99189
 EDDM;2020-03-05T03:50:00Z;48.35;11.82;447;-2;-3;60;3.704;9.99189
-UMKK;2020-03-05T03:30:00Z;54.88;20.6;21;1;0;210;11.112;8.99431
+UMKK;2020-03-05T04:00:00Z;54.88;20.6;21;1;0;210;7.408;8.99431
