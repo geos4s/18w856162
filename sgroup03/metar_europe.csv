@@ -1,2 +1,2 @@
 station_id;observation_time;latitude;longitude;elevation;temperature;dewpoint;winddirection;windspeed;visibility in km
-EDDM;2020-03-12T14:20:00Z;48.35;11.82;447;16;8;250;38.892;9.99189
+EDDM;2020-03-12T14:50:00Z;48.35;11.82;447;16;8;260;38.892;9.99189
