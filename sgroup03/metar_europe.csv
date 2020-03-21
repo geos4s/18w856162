@@ -1,4 +1,4 @@
 station_id;observation_time;latitude;longitude;elevation;temperature;dewpoint;winddirection;windspeed;visibility in km
+UMKK;2020-03-21T10:30:00Z;54.88;20.6;21;3;-6;360;29.632;9.99189
 EKCH;2020-03-21T10:20:00Z;55.62;12.67;5;5;-6;360;16.668;9.99189
-UMKK;2020-03-21T10:00:00Z;54.88;20.6;21;3;-5;360;29.632;9.99189
 EHAM;2020-03-21T10:25:00Z;52.32;4.78;9;6;-1;60;31.484;9.99189
