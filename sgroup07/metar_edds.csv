@@ -1,2 +1,2 @@
 stationId;observationTime;latitude;longitude;elevation;temp;dewpoint;windDirection;windSpeed;visibility;altim;qualityControlFlag;skyCondition1a;skyCondition1b;skyCondition2a;skyCondition2b;flightCategory;metarType
-EDDS;2020-04-20T11:50:00Z;48.67;9.22;419;17;3;90;20.372;6.21;29.911417;VFR;METAR
+EDDS;2020-04-20T12:20:00Z;48.67;9.22;419;17;3;80;24.076;6.21;29.911417;VFR;METAR
