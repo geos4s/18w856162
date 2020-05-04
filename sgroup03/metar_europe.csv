@@ -1,5 +1,5 @@
 station_id;observation_time;latitude;longitude;elevation;temperature;dewpoint;winddirection;windspeed;visibility in km
-EKCH;2020-05-04T03:50:00Z;55.62;12.67;5;5;3;240;9.26;9.99189
 EDDM;2020-05-04T03:50:00Z;48.35;11.82;447;8;5;0;1.852;9.99189
 EDDH;2020-05-04T03:50:00Z;53.63;10;16;4;4;330;5.556;9.99189
 EHAM;2020-05-04T03:55:00Z;52.32;4.78;9;9;7;60;11.112;9.99189
+EKCH;2020-05-04T03:50:00Z;55.62;12.67;5;5;3;240;9.26;9.99189
